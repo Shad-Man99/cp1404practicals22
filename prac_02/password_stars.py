@@ -1,3 +1,6 @@
+"""Password checker"""
+
+
 def main():
     min_length = 10
     password = input("Enter password: ")
