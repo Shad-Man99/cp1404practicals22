@@ -8,4 +8,4 @@ print(random.uniform(2.5, 5.5))  # line 3
 # Q2. 3 and 19. No, because the starting point is 3 and steps in intervals of 2, hence only 3,5,7,9 will be outputted.
 # Q3. 2.5 and 5.5.
 
-print(random.randint(0, 100))
+print(random.randint(1, 100))
