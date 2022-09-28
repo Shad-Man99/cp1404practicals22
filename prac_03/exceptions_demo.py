@@ -5,11 +5,11 @@ Answer the following questions:
 2. When will a ZeroDivisionError occur?
 3. Could you change the code to avoid the possibility of a ZeroDivisionError?
 """
-zero_division = 0
+
 try:
     numerator = int(input("Enter the numerator: "))
     denominator = int(input("Enter the denominator: "))
-    while denominator == zero_division:
+    while denominator == 0:
         print("Cannot divide by 0")
         denominator = int(input("Enter the denominator: "))
     else:
