@@ -19,6 +19,7 @@ price = INITIAL_PRICE
 out_file = open("capitalist_conrad.txt", 'w')
 print(f"Starting price: ${INITIAL_PRICE:,.2f}", file=out_file)
 day_number = 0
+
 while price >= MIN_PRICE and price <= MAX_PRICE:
     price_change = 0
     # generate a random integer of 1 or 2
