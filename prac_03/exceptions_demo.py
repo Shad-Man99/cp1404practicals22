@@ -14,7 +14,7 @@ try:
         denominator = int(input("Enter the denominator: "))
     else:
         fraction = numerator / denominator
-    print(fraction)
+    print(f"{fraction}")
 except ValueError:
     print("Numerator and denominator must be valid numbers!")
 print("Finished.")
