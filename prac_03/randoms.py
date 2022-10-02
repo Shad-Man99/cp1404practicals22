@@ -6,6 +6,6 @@ print(random.uniform(2.5, 5.5))  # line 3
 
 # Q1. 5 and 20. Random integers printed between 5 and 20, inclusive.
 # Q2. 3 and 19. No, because the starting point is 3 and steps in intervals of 2, hence only 3,5,7,9 will be outputted.
-# Q3. 2.5 and 5.5.
+# Q3. 2.5 and 5.5. Will return random floating integers between 2.5 and 3.5 (both points inclusive)
 
 print(random.randint(1, 100))
