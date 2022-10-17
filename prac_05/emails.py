@@ -1,7 +1,7 @@
 """
 emails
 Estimate: 60 minutes
-Actual:    minutes
+Actual:   90 minutes
 """
 
 store_email_name = {}
