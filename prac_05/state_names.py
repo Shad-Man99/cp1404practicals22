@@ -1,4 +1,10 @@
 """
+Word Occurrences
+Estimate: 25 minutes
+Actual:   45 minutes
+"""
+
+"""
 CP1404/CP5632 Practical
 State names in a dictionary
 File needs reformatting

@@ -1,4 +1,10 @@
 """
+Word Occurrences
+Estimate: 30 minutes
+Actual:   45 minutes
+"""
+
+"""
 CP1404/CP5632 Practical
 Hexadecimal colours in a dictionary
 """
