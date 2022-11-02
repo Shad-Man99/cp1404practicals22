@@ -1,3 +1,8 @@
+"""
+Estimate: 30 minutes
+Actual:   30 minutes
+"""
+
 """CP1404/CP5632 Practical - Car class example."""
 
 

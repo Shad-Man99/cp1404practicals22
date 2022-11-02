@@ -1,3 +1,8 @@
+"""
+Estimate: 25 minutes
+Actual:   35 minutes
+"""
+
 CURRENT_YEAR = 2022
 VINTAGE_AGE = 50
 

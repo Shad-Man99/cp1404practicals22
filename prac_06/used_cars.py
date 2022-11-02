@@ -1,3 +1,8 @@
+"""
+Estimate: 20 minutes
+Actual:   25 minutes
+"""
+
 from prac_06.car import Car
 
 

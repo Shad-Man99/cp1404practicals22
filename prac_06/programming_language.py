@@ -1,3 +1,9 @@
+"""
+Estimate: 25 minutes
+Actual:  20 minutes
+"""
+
+
 class ProgrammingLanguage:
 
     def __init__(self, name, typing, reflection, year):
