@@ -3,6 +3,11 @@ CP1404/CP5632 Practical - Suggested Solution
 Programming Language class with tests.
 """
 
+"""
+Estimate: 25 minutes
+Actual:  20 minutes
+"""
+
 
 class ProgrammingLanguage:
     """Represent information about a programming language."""

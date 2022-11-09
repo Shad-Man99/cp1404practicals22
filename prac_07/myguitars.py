@@ -1,3 +1,7 @@
+"""
+Estimate: 45 minutes
+Actual:  35 minutes
+"""
 from prac_06.guitar import Guitar
 
 
