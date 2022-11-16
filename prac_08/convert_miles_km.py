@@ -1,3 +1,7 @@
+"""
+Estimate: 45 minutes
+Actual:  55 minutes
+"""
 from kivy.app import App
 from kivy.lang import Builder
 from kivy.app import StringProperty  # Not sure why warning is coming up.

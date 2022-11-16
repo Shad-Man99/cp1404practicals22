@@ -1,3 +1,7 @@
+"""
+Estimate: 40 minutes
+Actual:  40 minutes
+"""
 from kivy.app import App
 from kivy.lang import Builder
 
