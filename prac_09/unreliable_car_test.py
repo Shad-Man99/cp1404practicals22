@@ -1,7 +1,6 @@
 """
-Unreliable Car Test
-20/11/2022
-This program tests the class UnreliableCar
+Estimate: 20 minutes
+Actual:  13 minutes
 """
 
 from prac_09.unreliable_car import UnreliableCar

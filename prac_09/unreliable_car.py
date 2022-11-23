@@ -1,7 +1,6 @@
 """
-Unreliable Car
-20/11/2022
-This class inherits from Car and represents an unreliable car object.
+Estimate: 30 minutes
+Actual:  20 minutes
 """
 
 from prac_09.car import Car

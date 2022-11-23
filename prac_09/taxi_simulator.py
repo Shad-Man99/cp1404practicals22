@@ -1,5 +1,6 @@
 """
-Taxi Simulator
+Estimate: 60 minutes
+Actual:  90 minutes
 """
 
 from prac_09.taxi import Taxi

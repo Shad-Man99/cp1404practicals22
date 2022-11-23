@@ -1,6 +1,7 @@
 """
-CP1404/CP5632 Practical
-Taxi test
+Estimate: 25 minutes
+Actual:   15 minutes
+
 """
 
 from prac_09.taxi import Taxi
