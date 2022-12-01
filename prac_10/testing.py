@@ -1,4 +1,9 @@
 """
+Estimate: 45 minutes
+Actual:  35 minutes
+"""
+
+"""
 CP1404/CP5632 Practical
 Testing demo using assert and doctest
 """

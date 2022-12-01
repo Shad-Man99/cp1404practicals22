@@ -1,4 +1,9 @@
 """
+Estimate: 30 minutes
+Actual:  25 minutes
+"""
+
+"""
 Wiki
 30/11/2022
 This program displays wikipedia pages chosen by user input.
