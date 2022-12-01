@@ -99,3 +99,4 @@ def fix_sentence(sentence=""):
     except IndexError:
         pass
     return "".join(fixed_sentence)
+
